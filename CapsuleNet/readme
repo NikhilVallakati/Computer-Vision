@@ -1,1 +1,3 @@
 This work is includes advanced neural network architecture Capsule Network
+A Capsule Convolutional Neural Network, based on the concept of equivariance, is developed and implemented on a 10 label Fashion MNIST dataset (70k images)
+The ConvCaps Network achieved highest accuracy of 91% with Adam as optimizer in only 8 epochs
