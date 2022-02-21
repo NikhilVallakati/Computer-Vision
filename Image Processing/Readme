@@ -1,0 +1,4 @@
+Designed neural network from scratch with numpy
+A neural network is designed with one input, three hidden and one output layer with 1024, (512,128,64), and 10 nodes respectively
+Optional dropout, inverted dropout and L2 regularizer are added
+Activation functions used are Softmax, ReLU, Leaky ReLU. The highest accuracy of 78.24% is obtained
