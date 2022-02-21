@@ -1,1 +1,2 @@
-A Convolution Neural Network is designed and built for classifying different emotions in subjects of Cohn Kanade (CK+) dataset. Hyperparameter tuning is performed with different combinations of activation function, optimizer, learning rate, batch size, number of hidden layers and neurons obtaining an accuracy of 92%.
+A Convolution Neural Network is designed and built for classifying different emotions in subjects of Cohn Kanade (CK+) dataset.
+Hyperparameter tuning is performed with different combinations of activation function, optimizer, learning rate, batch size, number of hidden layers and neurons obtaining an accuracy of 92%.
